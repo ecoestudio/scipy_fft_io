@@ -98,25 +98,25 @@ del PytestTester
 
 
 submodules = [
-    'cluster',
-    'constants',
-    'datasets',
-    'differentiate',
+    #'cluster',
+    #'constants',
+    #'datasets',
+    #'differentiate',
     'fft',
-    'fftpack',
-    'integrate',
-    'interpolate',
+    #'fftpack',
+    #'integrate',
+    #'interpolate',
     'io',
-    'linalg',
-    'misc',
-    'ndimage',
-    'odr',
-    'optimize',
-    'signal',
-    'sparse',
-    'spatial',
-    'special',
-    'stats'
+    #'linalg',
+    #'misc',
+    #'ndimage',
+    #'odr',
+    #'optimize',
+    #'signal',
+    #'sparse',
+    #'spatial',
+    #'special',
+    #'stats'
 ]
 
 __all__ = submodules + [
